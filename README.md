@@ -1,4 +1,4 @@
-# 📱 FIAP — React Native (Expo)
+# 📱 CP React Native (Expo) - Luiz Souza
 
 Este projeto foi desenvolvido em aula com o objetivo de ensinar os conceitos fundamentais de **React Native com Expo**, focando em:
 
