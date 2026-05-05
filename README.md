@@ -1,4 +1,4 @@
-# 📱 CP React Native (Expo) - Luiz Souza
+# CP React Native (Expo) - Luiz Souza
 
 Este projeto foi desenvolvido em aula com o objetivo de ensinar os conceitos fundamentais de **React Native com Expo**, focando em:
 
@@ -148,19 +148,10 @@ npm install react-native-screens@4.16.0 --save-exact
 
 ---
 
-# 🎯 Próximos passos
-
-* Melhorar layout (UI/UX)
-* Criar componentes reutilizáveis
-* Adicionar validação de formulário
-* Integrar com Firebase (login real)
-* Persistência de usuário
-
----
 
 # 👨‍🏫 Autor
 
-Projeto utilizado em aula — FIAP
-Luiz Fernando de Aragão Souza
+Projeto utilizado em aula — 
+Luiz Fernando de Aragão Souza RM555561
 
 ---
